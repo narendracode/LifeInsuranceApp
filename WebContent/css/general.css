@@ -1,0 +1,35 @@
+
+.form{
+	margin: 5em auto 3em;
+	width: 300px;
+}
+.form table{
+	margin-bottom: 2em;
+}
+.form table td{
+	text-align: left;
+	font-size: 11px;
+	vertical-align: top;
+}
+.form input{
+	border: 1px solid #d0ccc9;
+	background: #fff;
+	color: #5f95ef;
+	font-size: 11px;
+	font-weight: 700;
+	padding-bottom: 2px;
+}
+.form input.text{
+	font-weight: normal;
+	color: #565656;
+	border: 1px solid #9c9c9c;
+	width: 250px;
+	padding: 2px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+.form input.text.active{
+	background: #ddeff6;
+	border: 1px solid #0099d4;
+}
+/******* /FORM *******/
